@@ -1,1 +1,4 @@
-nuevo texto. quise ponerle plain porque tengo ganas de hacer la plancha encima de un volcan
+nuevo texto. quise ponerle plain porque tengo ganas de hacer
+la plancha encima de un volcan
+update: deza me dijo que podia editar archivos si usaba el comando nano.
+hibrido
